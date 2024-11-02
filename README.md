@@ -207,8 +207,8 @@ Additional Resources
 
 For more information on each tool and to dive deeper into specific use cases, check out these links:
 
-	•	[AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/)
-	•	[HashiCorp Terraform Documentation](https://www.terraform.io/docs/)
-	•	[Terraform Registry for Reusable Modules](https://registry.terraform.io/)
-	•	[HashiCorp Sentinel (Policy as Code for Terraform)](https://www.hashicorp.com/sentinel/)
+- [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/)
+- [HashiCorp Terraform Documentation](https://www.terraform.io/docs/)
+- [Terraform Registry for Reusable Modules](https://registry.terraform.io/)
+- [HashiCorp Sentinel (Policy as Code for Terraform)](https://www.hashicorp.com/sentinel/)
 
